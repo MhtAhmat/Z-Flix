@@ -1,7 +1,7 @@
 # Rapport de montage : coupe-légumes (4 vidéos)
 
 Format : 1080x1920, 30 i/s, H.264 + AAC. Voix off seule, à environ -14 LUFS. Son d'origine des clips supprimé.
-Aucun texte à l'écran. Dans les 3 dernières secondes : plan produit + flèche animée vers le bas (couleur, hauteur et rythme différents selon la vidéo).
+Aucun texte à l'écran. Aucun zoom ni recadrage : chaque plan garde le cadrage de son clip source, en entier. Tous les clips sources sont verticaux ; s'il manque quelques pixels pour faire du 9:16, un fond flou du même clip remplit les bords. Dans les 3 dernières secondes : plan produit + flèche animée vers le bas (couleur, hauteur et rythme différents selon la vidéo).
 
 ## Rushes
 | Clip | Fichier | Durée | Contenu |
@@ -16,11 +16,11 @@ Aucun texte à l'écran. Dans les 3 dernières secondes : plan produit + flèche
 ## Vidéo 1 : « Le temps » (21,1 s)
 | Voix off | Temps | Plan |
 |---|---|---|
-| 30 minutes par jour perdues à couper des légumes | 0–2,7 | C2 9,2 s : carotte poussée à la main, accéléré x2 (2 plans) |
-| Un couteau, une planche | 2,7–4,6 | C5 0 s : gros plan couteau + oignon + planche |
+| 30 minutes par jour perdues à couper des légumes | 0–2,7 | C2 9,2 s puis 11,7 s : carotte poussée à la main, accéléré x2 |
+| Un couteau, une planche | 2,7–4,6 | C5 0 s : couteau, oignon et planche |
 | et des légumes qui n'en finissent pas | 4,6–6,5 | C2 17 s : plateau rempli de légumes |
 | Le repas arrive en retard | 6,5–8,2 | C5 2 s : cuisine en panique |
-| le dos fait mal | 8,2–9,6 | C5 3,7 s : visage fatigué ⚠ |
+| le dos fait mal | 8,2–9,6 | C5 3,7 s : mère inquiète ⚠ |
 | et le temps pour la famille disparaît | 9,6–11,0 | C5 0,6 s : mère et bébé en pleurs |
 | Avec ce coupe-légumes, oignons, tomates et carottes | 11,0–14,2 | C6 0,4 s (tomate) ; C5 12 s x2 (oignon puis carotte) |
 | sont coupés d'une seule pression, en quelques secondes | 14,2–16,8 | C4 8 s (pression) ; C2 7 s (cubes de carotte) |
@@ -31,7 +31,7 @@ Aucun texte à l'écran. Dans les 3 dernières secondes : plan produit + flèche
 | Voix off | Temps | Plan |
 |---|---|---|
 | Regardez ce qui arrive à cet oignon | 0–1,6 | C5 0 s : femme qui coupe l'oignon au couteau en pleurant (accroche) |
-| Couper un oignon au couteau | 1,6–3,3 | C5 0 s : gros plan couteau, ralenti |
+| Couper un oignon au couteau | 1,6–3,3 | C5 0 s : coupe au couteau, ralenti |
 | pique les yeux et fait pleurer | 3,3–4,9 | C5 0,6 s : elle s'essuie les yeux |
 | On s'arrête, les yeux rouges | 4,9–7,4 | C5 2 s : planche renversée ; C5 3,3 s : visage |
 | et le repas prend du retard | 7,4–9,0 | C5 4,4 s : tout le monde attend |
@@ -55,8 +55,8 @@ Aucun texte à l'écran. Dans les 3 dernières secondes : plan produit + flèche
 ## Vidéo 4 : « La sécurité » (20,0 s)
 | Voix off | Temps | Plan |
 |---|---|---|
-| Une petite coupure au doigt | 0–1,4 | C5 0,75 s : main au visage, grimace ⚠ |
-| causée par un couteau | 1,4–2,8 | C5 0 s : macro couteau + doigts, ralenti |
+| Une petite coupure au doigt | 0–1,4 | C5 0,75 s : elle s'essuie les yeux, grimace ⚠ |
+| causée par un couteau | 1,4–2,8 | C5 0 s : coupe au couteau, ralenti |
 | Un couteau bien aiguisé | 2,8–4,3 | C5 0 s : couteau en main |
 | et la précipitation… | 4,3–6,5 | C5 1,5 s : planche renversée, ralenti |
 | Une blessure, de la douleur | 6,5–9,0 | C5 3,6 s et 4,9 s : visage de la mère, bébé |
@@ -68,9 +68,9 @@ Aucun texte à l'écran. Dans les 3 dernières secondes : plan produit + flèche
 | CTA | 17,0–20,0 | C6 12 s : bac rempli de légumes + flèche rouge |
 
 ## Plans manquants (remplacés par le plan le plus proche)
-- **Couteau** : une seule séquence existe dans les rushes (C5, 0–1,7 s). Elle est réutilisée dans les 4 vidéos avec des recadrages et des vitesses différents. Le « temps perdu » au couteau ne peut donc pas vraiment être accéléré : la vidéo 1 utilise à la place une carotte poussée à la main, en accéléré.
-- **Coupure au doigt / blessure** (V4) : aucun plan. Remplacé par la femme qui grimace, la main au visage.
-- **Mal de dos** (V1) : aucun plan. Remplacé par un visage fatigué.
+- **Couteau** : une seule séquence existe dans les rushes (C5, 0–1,7 s). Elle est réutilisée dans les 4 vidéos, à des vitesses différentes. Sans recadrage, ces plans se ressemblent davantage d'une vidéo à l'autre. Le « temps perdu » au couteau ne peut donc pas vraiment être accéléré : la vidéo 1 utilise à la place une carotte poussée à la main, en accéléré.
+- **Coupure au doigt / blessure** (V4) : aucun plan. Remplacé par la femme qui pleure en s'essuyant les yeux.
+- **Mal de dos** (V1) : aucun plan. Remplacé par la mère inquiète.
 - **Invités qui arrivent / 10 personnes** (V3) : aucun plan de groupe. Remplacé par l'homme qui débarque (C5) et un grand bac de légumes.
 - **Horloge / 30 minutes** (V1) : aucun plan. Remplacé par un geste répétitif accéléré.
 - Le CTA de la vidéo 2 vient de C3, en 576p agrandi : légèrement moins net.
